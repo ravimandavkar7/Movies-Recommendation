@@ -1,4 +1,4 @@
-alabaster
+alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 altair
 anaconda-client
 anaconda-navigator
@@ -33,7 +33,7 @@ boto
 Bottleneck
 brotlipy
 cachetools
-certifi
+certifi @ file:///C:/b/abs_36eb5mzhph/croot/certifi_1690232276943/work/certifi
 cffi @ file:///C:/ci/cffi_1613247279197/work
 chardet @ file:///C:/ci/chardet_1607690654534/work
 click @ file:///home/linux1/recipes/ci/click_1610990599742/work
@@ -72,6 +72,7 @@ gevent @ file:///C:/ci/gevent_1616773090559/work
 gitdb
 GitPython
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
+gmpy2 @ file:///C:/ci/gmpy2_1645456279018/work
 greenlet @ file:///C:/ci/greenlet_1611958565931/work
 h5py
 HeapDict
@@ -153,6 +154,7 @@ partd @ file:///tmp/build/80754af9/partd_1618000087440/work
 path @ file:///C:/ci/path_1614022440181/work
 pathlib2 @ file:///C:/ci/pathlib2_1607025069150/work
 pathspec
+pathtools @ file:///Users/ktietz/demo/mc3/conda-bld/pathtools_1629713893697/work
 patsy
 pep8
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
@@ -177,7 +179,8 @@ pydeck
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1616182067796/work
 pyerfa @ file:///C:/ci/pyerfa_1619391071834/work
 pyflakes @ file:///home/ktietz/src/ci_ipy2/pyflakes_1612551159640/work
-Pygments
+Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
+PyJWT @ file:///C:/ci/pyjwt_1657529430378/work
 pylint @ file:///C:/ci/pylint_1617136058775/work
 pyls-black @ file:///tmp/build/80754af9/pyls-black_1607553132291/work
 pyls-spyder @ file:///tmp/build/80754af9/pyls-spyder_1613849700860/work
@@ -255,7 +258,7 @@ tornado @ file:///C:/ci/tornado_1606942392901/work
 tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
 traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
 typed-ast @ file:///C:/ci/typed-ast_1610466535590/work
-typing-extensions
+typing-extensions @ file:///C:/b/abs_213vg2cd1l/croot/typing_extensions_1690297804941/work
 tzdata
 tzlocal
 ujson @ file:///C:/ci/ujson_1611241570789/work
